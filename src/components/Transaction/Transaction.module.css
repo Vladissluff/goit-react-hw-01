@@ -1,0 +1,25 @@
+.transactionHistory {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.transactionHistory th,
+.transactionHistory td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.transactionHistory thead {
+  background-color: black;
+  color: white;
+}
+
+.whiteRow {
+  background-color: #ffffff;
+}
+
+.grayRow {
+  background-color: #f3f3f3;
+}
